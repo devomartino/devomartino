@@ -1,4 +1,5 @@
-</br>
+![SQL] 
+
 - ⚡ Health Data Science M.S. from Saint Louis University
 - 🌱 Currently, my primary focus is Trade Surveillance Data Analyzation for Stifel Financial.
 - 😄 Looking to apply my skills in a Data Scientist role, with an impactful company!
