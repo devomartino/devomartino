@@ -1,4 +1,8 @@
-![SQL](https://img.shields.io/badge/SQL%20-%20Red)
+![SQL](https://img.shields.io/badge/SQL%20-%20red?style=for-the-badge&logo=SQL&logoColor=Blue)
+![Python](https://img.shields.io/badge/Python%20-%20lightblue?style=for-the-badge&logo=SQL&logoColor=Blue)
+![R](https://img.shields.io/badge/R%20-%20green?style=for-the-badge&logo=SQL&logoColor=Blue)
+![PowerBI](https://img.shields.io/badge/PowerBI%20-%20gold?style=for-the-badge&logo=SQL&logoColor=Blue)
+</br>
 - ⚡ Health Data Science M.S. from Saint Louis University
 - 🌱 Currently, my primary focus is Trade Surveillance Data Analyzation for Stifel Financial.
 - 😄 Looking to apply my skills in a Data Scientist role, with an impactful company!
